@@ -1,3 +1,4 @@
 class StaticController < ApplicationController
   
-  def Hello_World
+  def hello_world
+    renders 
